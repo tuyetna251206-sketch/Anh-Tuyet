@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+    },
+    {
+        "name": "Word",
+        "icon": "https://img.icons8.com/?size=100&id=42931&format=png&color=000000"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=100&id=Tv9PzYbf0vqw&format=png&color=000000"
+    },
+    {
+        "name": "Powperpoint",
+        "icon": "https://img.icons8.com/?size=100&id=RWmvvg0JGkH6&format=png&color=000000"
+    },
+    {
+        "name": "Onenote",
+        "icon": "https://img.icons8.com/?size=100&id=55057&format=png&color=000000"
+    },
+    {
+        "name": "GG Calendar",
+        "icon": "https://img.icons8.com/?size=100&id=Xm1BwlEApHW6&format=png&color=000000"
+    },
+    {
+        "name": "GG Meet",
+        "icon": "https://img.icons8.com/?size=100&id=JZy3X5gcctW2&format=png&color=000000"
+    },
+    {
+        "name": "Microsoft Teams",
+        "icon": "https://img.icons8.com/?size=100&id=K3WJMW04wjB2&format=png&color=000000"
+    },
+    {
+        "name": "Goodnote",
+        "icon": "https://img.icons8.com/?size=100&id=OyB8Tj6SCAKA&format=png&color=000000"
+    },
+    {
+        "name": "Notion",
+        "icon": "https://img.icons8.com/?size=100&id=XuN4xb9JiZUY&format=png&color=000000"
+    },
+    {
+        "name": "Capcut",
+        "icon": "https://img.icons8.com/?size=100&id=V6jsd74jR29Q&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=46605&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?size=100&id=107497&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=121464&format=png&color=000000"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/?size=100&id=KU6B9rHO21qL&format=png&color=000000"
+    }    
+]
